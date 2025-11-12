@@ -22,7 +22,7 @@ Aplikasi dibangun menggunakan **Flutter** dengan navigasi utama berupa **Bottom 
 * **Implementasi**: Menampilkan **judul aplikasi**, **foto profil** pengembang, **NIM**, dan **nama lengkap**. 
 
 ### 2. Dashboard (Halaman Utama) 🏠
-`![Screenshot Halaman Beranda](screenshots/beranda_page.png)`
+`![Screenshot Halaman Beranda](screenshoots/beranda_page.png)`
 * **Deskripsi**: Halaman *overview* dan pusat navigasi.
 * **Implementasi**: Menggunakan **Bottom Navigation Bar** sebagai menu navigasi utama. 
 
