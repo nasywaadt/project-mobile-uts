@@ -22,11 +22,14 @@ Aplikasi dibangun menggunakan **Flutter** dengan navigasi utama berupa **Bottom 
 * **Implementasi**: Menampilkan **judul aplikasi**, **foto profil** pengembang, **NIM**, dan **nama lengkap**. 
 
 ### 2. Dashboard (Halaman Utama) 🏠
-`![Screenshot Halaman Beranda](screenshoots/beranda_page.png)`
+![Screenshot Halaman Beranda](screenshoots/beranda_page.png?raw=true)
+
 * **Deskripsi**: Halaman *overview* dan pusat navigasi.
 * **Implementasi**: Menggunakan **Bottom Navigation Bar** sebagai menu navigasi utama. 
 
 ### 3. Halaman Biodata 👤
+![Screenshot Halaman Biodata](screenshoots/biodata_page.png?raw=true)
+
 * **Deskripsi**: Halaman untuk menampilkan dan menginput data diri statis dengan desain menarik. 
 * **Implementasi**: 
     * **Input Fields**: Digunakan untuk Nama, NIM, Email, dan Nomor Telepon.
@@ -36,6 +39,8 @@ Aplikasi dibangun menggunakan **Flutter** dengan navigasi utama berupa **Bottom 
     * Data yang diinput **tidak perlu disimpan ke database**. 
 
 ### 4. Halaman Kontak 📞
+![Screenshot Halaman Kontak](screenshoots/kontak_page.png?raw=true)
+
 * **Deskripsi**: Halaman daftar kontak telepon statis yang memiliki pola tampilan berulang. 
 * **Implementasi**: 
     * Menampilkan daftar kontak dalam *List View* yang terdiri dari **teks** dan **circle image**. 
@@ -43,12 +48,16 @@ Aplikasi dibangun menggunakan **Flutter** dengan navigasi utama berupa **Bottom 
     * Terdapat fitur *filtering* berdasarkan kategori (`Pribadi`, `Kerja`, `Kuliah`).
 
 ### 5. Halaman Kalkulator 🧮
+![Screenshot Halaman Kalkulator](screenshoots/kalkulator_page.png?raw=true)
+
 * **Deskripsi**: Halaman untuk melakukan perhitungan matematika sederhana. 
 * **Implementasi**: 
     * Mode kalkulator sederhana yang sudah dapat melakukan operasi: **tambah**, **kurang**, **kali**, **bagi**, **kuadrat** ($x^2$), dan **akar kuadrat** ($\sqrt{}$). 
     * Dilengkapi tombol hapus. 
 
 ### 6. Halaman Cuaca ☁️
+![Screenshot Halaman Cuaca](screenshoots/cuaca_page.png?raw=true)
+
 * **Deskripsi**: Halaman informasi cuaca. 
 * **Implementasi**: 
     * **Peningkatan**: Implementasi menggunakan **API BMKG** untuk mendapatkan data **dinamis**.
@@ -57,6 +66,8 @@ Aplikasi dibangun menggunakan **Flutter** dengan navigasi utama berupa **Bottom 
     * Tampilan dilengkapi dengan **gambar animasi kondisi cuaca yang cakep**. 
 
 ### 7. Halaman Berita 📰
+![Screenshot Halaman Berita](screenshoots/berita_page.png?raw=true)
+
 * **Deskripsi**: Halaman untuk menampilkan daftar berita statis dengan pola tampilan berulang. 
 * **Implementasi**: 
     * Daftar berita disajikan dalam pola tampilan berulang (*List View*) yang mirip dengan halaman kontak. 
