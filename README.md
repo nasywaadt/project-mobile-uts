@@ -18,8 +18,10 @@ Aplikasi dibangun menggunakan **Flutter** dengan navigasi utama berupa **Bottom 
 ## 📋 Daftar Halaman dan Implementasi Fungsional
 
 ### 1. Splash Screen ✨
+![Screenshot Splash Screen](screenshoots/splash_page.png?raw=true)
+
 * **Deskripsi**: Halaman awal aplikasi selama **5 detik** sebelum masuk ke menu utama. 
-* **Implementasi**: Menampilkan **judul aplikasi**, **foto profil** pengembang, **NIM**, dan **nama lengkap**. 
+* **Implementasi**: Menampilkan **judul aplikasi** yaitu **Nasy' App**, **foto profil** , **NIM** 152023006, dan **nama lengkap** Nasywa Adita Zain. 
 
 ### 2. Dashboard (Halaman Utama) 🏠
 ![Screenshot Halaman Beranda](screenshoots/beranda_page.png?raw=true)
